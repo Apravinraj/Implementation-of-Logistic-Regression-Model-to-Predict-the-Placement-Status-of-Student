@@ -98,7 +98,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Accuracy value:
 
-![Uploading 272194223-e069c29d-699f-43e4-b302-1c2546e24a67.png…]()
+![272194223-e069c29d-699f-43e4-b302-1c2546e24a67](https://github.com/Apravinraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707879/566f8128-dcea-4807-a3a1-b6f29e11e033)
+
 
 ## Confusion array:
 
