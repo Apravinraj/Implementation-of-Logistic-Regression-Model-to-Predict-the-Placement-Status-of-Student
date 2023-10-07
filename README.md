@@ -10,8 +10,8 @@ Import the required packages and print the present data. Print the placement dat
 
 ## Program:
 ```
-#Developed by: S AFSAR JUMAIL
-#RegisterNumber: 212222240004
+#Developed by: Pravin Raj A
+#RegisterNumber: 212222240079
 
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
