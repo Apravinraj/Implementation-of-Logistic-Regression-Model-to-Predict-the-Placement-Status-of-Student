@@ -105,7 +105,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![272194287-42bdc9e2-8e65-424d-a13d-914a10cb1e40](https://github.com/Apravinraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707879/eabec26f-7b90-44b2-9b71-49a6b184e5bd)
 
-cClassification Report:
+## Classification Report:
+
 ![272194335-1cefb2d7-c140-48a1-ae8e-be95c75652ec](https://github.com/Apravinraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707879/6aa48aca-4e6c-4de5-97de-5b6ccc3bdb3a)
 
 
